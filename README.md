@@ -1,1 +1,1 @@
-This is Himansh's first git prohject!
+This is Himansh's first git project!
